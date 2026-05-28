@@ -1,0 +1,6 @@
+{
+  "name": "InterQua AI",
+  "description": "A powerful white-themed terminal-style AI coding workspace powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
